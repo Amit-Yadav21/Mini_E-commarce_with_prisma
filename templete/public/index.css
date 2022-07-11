@@ -1,0 +1,83 @@
+
+ a{
+    text-decoration: none;
+}
+
+.main-navbar{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.1rem;
+    border-radius: 0.9rem;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 0.6rem;
+    height: 7vh;
+    width: 10.4rem;
+
+
+}
+.logo-img{
+    border-radius: 2rem;
+}
+.nav-option{
+    display: flex;
+    align-items: center;
+    gap:3rem;
+    margin: 1rem;
+}
+.btnLink{
+    color: black;
+    border: 3px solid;
+    padding: 0.4rem;
+    border-radius: 0.6rem;
+}
+ 
+body{
+    background-image: url("./image/pexels-maahid-photos-3881104.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lotus{
+    width: 600px;
+}
+.fist-infor-1{
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+}
+.lower-conatin{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0%;
+}
+
+.product-list{
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+i{
+    color: red;
+    align-items: flex-start;
+}
+
+.product-list img{
+    width: 20rem;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic-2{
+    width: 300px;
+    height: 300px;
+}
